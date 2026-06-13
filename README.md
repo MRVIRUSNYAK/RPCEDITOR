@@ -6,4 +6,5 @@
 ```bash
 sudo apt update && sudo apt install python3-pip python3-tk -y && pip install pypresence
 
-ДЛЯ ВИНДЫ - pip install pypresence
+```bash
+ДЛЯ ВИНДЫ: pip install pypresence
