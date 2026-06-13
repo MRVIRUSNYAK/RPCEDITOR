@@ -1,6 +1,7 @@
 # RPCEDITOR [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
-**CUSTOMRPC** CustomRpc - Прога написанная на Python, прога позволяет делать свой Discord оверлей...
+**RPCEDITOR** 
+RPCEDITOR - Прога написанная на Python, прога позволяет делать свой Discord оверлей...
 
 Для работы проги нужно установить зависимости: 
 
