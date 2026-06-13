@@ -1,5 +1,3 @@
-<div style="font-family: 'Comic Sans MS', 'Comic Sans', cursive;">
-
 # RPCEDITOR [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 **RPCEDITOR** — программа, написанная на Python, которая позволяет настраивать и выводить кастомный игровой статус (Rich Presence) в профиле Discord.
@@ -35,5 +33,3 @@ pip install pypresence
 3. (Опционально) В меню **Rich Presence -> Art Assets** загрузите изображения и сохраните их имена (ключи).
 4. Запустите скрипт программы, введите скопированный ID и заполните нужные поля текста и картинок.
 5. Нажмите кнопку запуска для обновления статуса в Discord.
-
-</div>
